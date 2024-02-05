@@ -1,0 +1,26 @@
+Project perpustakaan
+-Form login
+-Form register dengan validasi dan role admin,user,dan petugas
+
+-HALAMAN DASHBOARD ADMIN-
+*Profil : pengguna bisa merubah profil, poto profil dan data diri mereka
+*Dashboard-admin : menampilkan intro atau menu yanh berada diwebsite kami
+*Data pengguna : menampilkan data data pengguna yang sudah login
+* •Data buku : menampilkan buku beserta fitur untuk memilih jenis buku dengan mudah dan manipulasi buku
+  •Tambah buku : untuk menambahkan sebuah buku baru 
+*Permintaan pengguna: menampilkan notifikasi jika ada user/pengguna ingin meminjam sebuah buku
+*History : menampilkan jika admin menerima permintaan user untuk bisa dipinjam bukunya
+
+-HALAMAN DASHBOARD PETUGAS-
+*Profil : pengguna bisa merubah profil, poto profil dan data diri mereka
+*Dashboard-petugas : menampilkan intro atau menu yanh berada di website kami
+*Data pengguna: Menampilkan data data pengguna yang sudah login
+*Data buku : menampilkan buku beserta fitur untuk mencari jenis buku dengan mudah 
+*Permintaan pengguna: menampilkan notifikasi jika ada user ingin meminjam buku
+*History : menampilkan histori jika petugas/admin menerima permintaan user dan memberi sebuah tenggat waktu/estimasi waktu 
+
+-HALAMAN DASHBOARD USER-
+*Profil : pengguna bisa merubah profil, poto profil dan data diri mereka
+*Dashboard-user : Menampilkan intro dan menu menu yang ada di website kami
+*Data buku : menampilkan buku beserta fitur mencari buku agar mudah mencari jenis buku 
+*History : menampilkan histori jika admin menerims permintaan user
